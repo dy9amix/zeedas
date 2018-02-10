@@ -1,0 +1,386 @@
+ 
+ *{
+    box-sizing:border-box;
+  }
+ .ph-0{
+    padding: 0px !important;
+  }
+.zeedas-side{
+    position: relative;
+    right: 11em;
+    bottom: 20px;
+    min-height: 964px;
+    width: 210px;
+    background-color: #326ADA ;
+    border:none;
+ 
+
+  }
+
+  .zeedas-side3
+  {
+    position: relative;
+    bottom: 20px;
+    left: 15px;
+  min-height: 100vh;
+    background-color:#FFFFFF;
+    border:none;
+   }
+
+
+
+ 
+    .options {
+    height: 25px;
+    position: relative;
+}
+  
+  }
+
+    
+    .ion-ios-glasses-outline
+    {
+      position: relative;
+      bottom: 60px;
+      left: 60px;
+      height: 19px !important;
+      width: 37px !important;
+          }
+          .btn-group
+          {
+         
+           width: 100vw;
+           border: none;
+           outline: none;
+            background: #F0F5F9;
+          }
+    .btn.btn-default.btn-lg
+          {
+            height: 80px;
+            width: 120px;
+            margin: none;
+            outline: none;
+            padding: 10px;
+            text-align: center;
+             background: #F0F5F9;
+          }
+    .btn.btn-default.btn-lg strong
+    {
+     
+     position: relative;
+     top: 20px;
+     width: 67px;
+      height: 15px;
+      margin-bottom: 0;
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+font-size: 12px;
+color: #326ADA;
+letter-spacing: 0;
+    }
+
+    .btn.btn-default.btn-lg.diff
+    {
+      height: 80px;
+            width: 140px;
+            padding: 10px;
+            text-align: center;
+
+    }
+    .overview
+    {
+      padding-left: 10px;
+    }
+    .overview p
+    {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+color: #000000;
+letter-spacing: 0;
+    }
+    .btn.btn-primary
+    {
+     margin: 0;
+     position: relative;
+     right: 0.5px;
+     width: 210px;
+      height: 60px;
+      background-color: #326ADA
+
+    }
+   .btn.btn-primary.logout
+    {
+     margin: 0;
+     position: relative;
+     right: 0.5px;
+     top: 670px;
+     width: 210px;
+      height: 60px;
+      background-color: #326ADA
+
+    }
+    .btn.btn-primary p
+    {
+      position: relative;
+      bottom: 20px;
+      font-family: 'Montserrat', sans-serif;ont-size: 12px;
+color: #FFFFFF;
+letter-spacing: 0;
+line-height: 60px;
+    }
+.btn.btn-primary.logout p
+    {
+      position: relative;
+      bottom: 20px;
+      font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  line-height: 60px;
+    }
+    .btn.btn-primary.side3
+    {
+     position: relative;
+     left: 0px;
+      width: 200px;
+      border: none;
+      outline: none;
+      padding: 10px;
+      height: 50px;
+      background: #FFFFFF;
+    }
+     .btn.btn-primary.side3 p
+     {
+     position: relative;
+     bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+color: #000000;
+letter-spacing: 0;
+line-height: 50px;
+     }
+     .zeedas-side3
+     {
+      position: relative;
+      bottom: 40px;
+      width: 200px;
+      height: 70px;
+     }
+     .zeedas-side3 h4
+     {
+      text-align: right;
+      position: relative;
+      bottom: 10px;
+
+     }
+
+
+     .zeedas-side3 h3
+     {
+      position: relative;
+      top: 20px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 15px;
+    color: #000000;
+    letter-spacing: 0;
+     }
+
+     .ion-monitor
+     {
+      position: relative;
+      right: 70px;
+      top: 20px;
+      height: 21px;
+      width: 23px;
+     }
+     .ion-ios-browsers-outline
+     {
+            position: relative;
+      right: 70px;
+      top: 20px;
+      height: 21px;
+      width: 23px;
+     }
+     .ion-ios-bell-outline
+     {
+      position: relative;
+      right: 70px;
+      top: 20px;
+      height: 21px;
+      width: 23px;
+     }
+     .ion-ios-person-outline
+     {
+       position: relative;
+      right: 70px;
+      top: 20px;
+      height: 21px;
+      width: 23px;
+     }
+     .ion-person
+     {
+      position: relative;
+      bottom: 50px;
+     }
+     .ion-power
+     {
+       position: relative;
+      right: 70px;
+      top: 20px;
+      height: 21px;
+      width: 23px;
+
+     }
+     .caret
+     {
+      position: relative;
+      left: 100px;
+      bottom: 75px;
+       -ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+    transform: rotate(270deg);
+
+     }
+
+     .ion-ios-glasses-outline
+     {
+      position: relative;
+      left: 40px;
+      bottom: 10px;
+     }
+     .ion-grid
+     {
+      position: relative;
+      left: 40px;
+      bottom: 10px;
+     }
+     .ion-ios-folder-outline
+     {
+       position: relative;
+      left: 40px;
+      bottom: 10px;
+     }
+
+     .ion-ios-flower-outline
+     {
+      position: relative;
+      left: 40px;
+      bottom: 10px;
+     }
+     .img-circle
+     {
+      position: relative;
+      right: 80px;
+      top: 5px;
+     }
+
+     .ion-chatbox
+     {
+      padding-right: 10px;
+      padding-top: 3px;
+     }
+
+     /*.input-group
+     {
+      position: relative;
+      top:410px;
+      width: 200px;
+
+     }
+
+     .input-group.search
+     {
+      position: relative;
+      bottom: 200px;
+     }*/
+
+     .conversation
+     {
+        position: relative;
+      top:410px;
+      width: 200px;
+        }
+
+  .form-control.search
+  {
+    position: relative;
+    left: 150px;
+    height: 35px !important;
+    width: 500px !important;
+    background: #F0F5F9;
+border: 1px solid #E5E7F7;
+border-radius: 54px !important;
+  }
+  .ion-ios-bell
+  {
+    position: relative;
+    bottom: 0px;
+    left: 30px;
+    height: 12px !important;
+    width: 12px !important;
+    padding-right: 25px;
+  }
+  .navbar{
+    height: 50px;
+    min-width: 100vw !important;
+
+  }
+  .navbar-brand
+  {
+    position: relative;
+    right: 100em;
+    top: 5em;
+  }
+  .zeedas-side2
+  {
+    position: relative;
+    right: 1em;
+  }
+  .assigned
+  {
+    height: 738px;
+    
+    background: #FFFFFF;
+border: 1px solid #D7D7E1;
+  }
+  .frutta
+  {
+    padding: 40px;
+
+  }
+.yesterday
+{
+  height: 191px;
+  background: #FFFFFF;
+box-shadow: 0 11px 27px 0 rgba(0,0,0,0.13);
+border-radius: 5px;
+padding-top: 50px;
+padding-left: 40px;
+padding-right: 40px;
+}
+.infocon
+{
+  background: #FFFFFF;
+border-radius: 5px;
+}
+.infoone
+{
+padding-left: 60px;
+}
+.delivery h5
+{
+  font-family: Montserrat-Light;
+font-size: 12px;
+color: #000000;
+letter-spacing: 0;
+line-height: 21px;
+}
+.delivery h4
+{
+  font-weight: bold;
+  font-family: Montserrat-Light;
+font-size: 13px;
+color: #000000;
+letter-spacing: 0;
+line-height: 21px;
+}
